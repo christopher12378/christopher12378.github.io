@@ -1,0 +1,159 @@
+body,
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Crimson Text;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-top: 0;
+    margin-bottom: 5rem;
+    margin-left: 0;
+    margin-right: 0;
+    width: auto;
+    height: auto;
+}
+
+nav{
+    overflow: hidden;
+}
+
+
+.svg {
+    width: 30px;
+    height: 30px;
+    background: none;
+
+}
+
+
+.navbar, #navbarNav, .navbar-collapse, li {
+    background: none;
+    margin: 0 30px;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+
+.navbar-brand img {
+
+    height: 25px;
+    
+} 
+
+h1 {
+    
+    text-align: center;
+}
+
+
+.col1,
+.col2,
+.col3 {
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+}
+
+
+.icon1 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-bottom: 10px;
+}
+
+.icon2 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin: 0 20px;
+    background-color: #328998;
+}
+
+
+.card-group {
+    border: 1px black;
+    margin-bottom: 100px;
+}
+
+
+.card-title {
+    font-size: 16pt;
+    font-weight: 400;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+.card-text {
+    font-size: 12pt;
+    font-weight: 400;
+    text-align: left;
+    color: #ffffff;
+}
+
+.card:hover {
+    background-color: grey;
+    color: black;
+}
+
+
+.card-img-top {
+    padding: 2px;
+}
+
+.form {
+
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+
+}
+
+.h3{
+
+    height: 0%;
+}
+
+.pie-paguina{
+
+    background-color: #328998;
+}
+
+.flex-item a i{
+
+color: #ffffff;
+
+}
+
+    
+
+
+
